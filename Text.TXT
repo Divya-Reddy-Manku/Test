@@ -1,1 +1,2 @@
 testing of adding a new text file to git
+modified text file
